@@ -1,0 +1,42 @@
+[submodule "GtkSharp"]
+	path = GtkSharp
+	url = https://github.com/GtkSharp/GtkSharp
+[submodule "cygwin"]
+	path = cygwin
+	url = https://github.com/cygwin/cygwin
+[submodule "fuse-overlayfs"]
+	path = fuse-overlayfs
+	url = https://github.com/containers/fuse-overlayfs.git
+[submodule "glibc"]
+	path = glibc
+	url = https://github.com/lattera/glibc.git
+[submodule "jquery-ui-touch-punch"]
+	path = jquery-ui-touch-punch
+	url = https://github.com/furf/jquery-ui-touch-punch.git
+[submodule "libcairo"]
+	path = libcairo
+	url = https://github.com/native-toolkit/libcairo.git
+[submodule "gcc"]
+	path = gcc
+	url = https://github.com/gcc-mirror/gcc.git
+[submodule "libiconv"]
+	path = libiconv
+	url = https://github.com/roboticslibrary/libiconv.git
+[submodule "wine-mono"]
+	path = wine-mono
+	url = https://github.com/madewokherd/wine-mono.git
+[submodule "tigervnc"]
+	path = tigervnc
+	url = https://github.com/TigerVNC/tigervnc.git
+[submodule "virtualgl"]
+	path = virtualgl
+	url = https://github.com/VirtualGL/virtualgl.git
+[submodule "wine"]
+	path = wine
+	url = https://github.com/wine-mirror/wine.git
+[submodule "jdk"]
+	path = jdk
+	url = https://github.com/openjdk/jdk.git
+[submodule "WebKit"]
+	path = WebKit
+	url = https://github.com/WebKit/WebKit.git
