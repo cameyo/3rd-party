@@ -1,4 +1,5 @@
-# 3rd-party components used by Cameyo (unmodified / source code mirroring)
+# 3rd-party components used by Cameyo
+### unmodified / source code mirroring
 
 ## Cups-PDF
 License: GPL (https://www.cups-pdf.de/licensing.shtml)
